@@ -1,1 +1,1 @@
-print('Hello version control')
+print('Hello version control from the cloud')
